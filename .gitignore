@@ -1,2 +1,5 @@
 # dotenv environment variables file
 .env
+
+# .DS_Store created by mac
+.DS_Store
